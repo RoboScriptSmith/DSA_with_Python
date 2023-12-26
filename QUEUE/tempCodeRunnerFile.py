@@ -1,0 +1,1 @@
+print("Peek of the queue is: ",my_obj.peek())
